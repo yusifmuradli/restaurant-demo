@@ -635,4 +635,10 @@ header #menu-btn{
     display: inline-block;
   }
 }
+@media (max-width:461px){
+  .header .search-form.active{
+    right: 1%;
+    width: 40em;
+  }
+}
 /*! responsive end  */
